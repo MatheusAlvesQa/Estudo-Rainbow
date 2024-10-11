@@ -5,3 +5,4 @@ GREEN is the fourth color of the rainbow
 BLUE is the fifth color of the rainbow
 INDIGO if the sixth color of the rainbow
 VIOLET is the seventh color of the rainbow
+THESE are the colors of the rainbow
