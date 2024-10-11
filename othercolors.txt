@@ -1,3 +1,4 @@
 BROWN is not a color in the rainbow
 GRAY  is not a color in the rainbow
 BLACK is not a color in the rainbow
+PINK is not a color in the rainbow
