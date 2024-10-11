@@ -3,4 +3,5 @@ ORANGE is the second color of the rainbow
 YELLOW is the third color of the rainbow
 GREEN is the fourth color of the rainbow
 BLUE is the fifth color of the rainbow
+INDIGO if the sixth color of the rainbow
 VIOLET is the seventh color of the rainbow
